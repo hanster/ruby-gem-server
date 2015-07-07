@@ -59,3 +59,29 @@ Compressing indicies
 Compressed indicies: 0.001s
 Waiting for 1 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
 Exiting!
+Writing PID to tmp/pids/thin.pid
+Using rack adapter
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3000, CTRL+C to stop
+Generating Marshal quick index gemspecs for 3 gems
+...
+Complete
+Generated Marshal quick index gemspecs: 0.003s
+Generating specs index
+Generated specs index: 0.000s
+Generating latest specs index
+Generated latest specs index: 0.000s
+Generating prerelease specs index
+Generated prerelease specs index: 0.000s
+Compressing indicies
+Compressed indicies: 0.001s
+Generating Marshal quick index gemspecs for 1 gems
+.
+Complete
+Generated Marshal quick index gemspecs: 0.001s
+Updated indexes: 0.001s
+Compressing indicies
+Compressed indicies: 0.001s
+Waiting for 4 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
