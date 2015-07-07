@@ -1,0 +1,33 @@
+Writing PID to tmp/pids/thin.pid
+Using rack adapter
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3000, CTRL+C to stop
+Exiting!
+Writing PID to tmp/pids/thin.pid
+Using rack adapter
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3000, CTRL+C to stop
+Waiting for 1 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
+Writing PID to tmp/pids/thin.pid
+Using rack adapter
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3000, CTRL+C to stop
+Exiting!
+Writing PID to tmp/pids/thin.pid
+Using rack adapter
+Thin web server (v1.6.3 codename Protein Powder)
+Maximum connections set to 1024
+Listening on 0.0.0.0:3000, CTRL+C to stop
+Generating Marshal quick index gemspecs for 2 gems
+..
+Complete
+Generated Marshal quick index gemspecs: 0.001s
+Updated indexes: 0.002s
+Compressing indicies
+Compressed indicies: 0.001s
+Waiting for 5 connection(s) to finish, can take up to 30 sec, CTRL+C to stop now
+Exiting!
